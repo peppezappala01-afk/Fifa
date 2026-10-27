@@ -49,7 +49,7 @@
                 "buySetting": {
                     "buyPrice": 252000,
                     "bidPrice": 0,
-                    "noOfCards": 1,
+                    "noOfCards": 5,
                     "buyPricePercentage": 95,
                     "buyPriceSteps": 0,
                     "searchResultThreshold": 21,
@@ -142,7 +142,7 @@
                 "buySetting": {
                     "buyPrice": 278000,
                     "bidPrice": 0,
-                    "noOfCards": 1,
+                    "noOfCards": 5,
                     "buyPricePercentage": 95,
                     "buyPriceSteps": 0,
                     "searchResultThreshold": 21,
@@ -235,7 +235,7 @@
                 "buySetting": {
                     "buyPrice": 218000,
                     "bidPrice": 0,
-                    "noOfCards": 1,
+                    "noOfCards": 5,
                     "buyPricePercentage": 95,
                     "buyPriceSteps": 0,
                     "searchResultThreshold": 21,
@@ -328,7 +328,7 @@
                 "buySetting": {
                     "buyPrice": 219000,
                     "bidPrice": 0,
-                    "noOfCards": 1,
+                    "noOfCards": 5,
                     "buyPricePercentage": 95,
                     "buyPriceSteps": 0,
                     "searchResultThreshold": 21,
@@ -421,7 +421,7 @@
                 "buySetting": {
                     "buyPrice": 208000,
                     "bidPrice": 0,
-                    "noOfCards": 1,
+                    "noOfCards": 5,
                     "buyPricePercentage": 95,
                     "buyPriceSteps": 0,
                     "searchResultThreshold": 21,
@@ -514,7 +514,7 @@
                 "buySetting": {
                     "buyPrice": 140000,
                     "bidPrice": 0,
-                    "noOfCards": 1,
+                    "noOfCards": 5,
                     "buyPricePercentage": 95,
                     "buyPriceSteps": 0,
                     "searchResultThreshold": 21,
@@ -607,7 +607,7 @@
                 "buySetting": {
                     "buyPrice": 151000,
                     "bidPrice": 0,
-                    "noOfCards": 1,
+                    "noOfCards": 5,
                     "buyPricePercentage": 95,
                     "buyPriceSteps": 0,
                     "searchResultThreshold": 21,
@@ -700,7 +700,7 @@
                 "buySetting": {
                     "buyPrice": 155000,
                     "bidPrice": 0,
-                    "noOfCards": 1,
+                    "noOfCards": 5,
                     "buyPricePercentage": 95,
                     "buyPriceSteps": 0,
                     "searchResultThreshold": 21,
@@ -793,7 +793,7 @@
                 "buySetting": {
                     "buyPrice": 85000,
                     "bidPrice": 0,
-                    "noOfCards": 1,
+                    "noOfCards": 5,
                     "buyPricePercentage": 95,
                     "buyPriceSteps": 0,
                     "searchResultThreshold": 21,
@@ -886,7 +886,7 @@
                 "buySetting": {
                     "buyPrice": 85500,
                     "bidPrice": 0,
-                    "noOfCards": 1,
+                    "noOfCards": 5,
                     "buyPricePercentage": 95,
                     "buyPriceSteps": 0,
                     "searchResultThreshold": 21,
@@ -979,7 +979,7 @@
                 "buySetting": {
                     "buyPrice": 46750,
                     "bidPrice": 0,
-                    "noOfCards": 1,
+                    "noOfCards": 5,
                     "buyPricePercentage": 95,
                     "buyPriceSteps": 0,
                     "searchResultThreshold": 21,
@@ -1072,7 +1072,7 @@
                 "buySetting": {
                     "buyPrice": 286000,
                     "bidPrice": 0,
-                    "noOfCards": 1,
+                    "noOfCards": 5,
                     "buyPricePercentage": 95,
                     "buyPriceSteps": 0,
                     "searchResultThreshold": 21,
@@ -1165,7 +1165,7 @@
                 "buySetting": {
                     "buyPrice": 244000,
                     "bidPrice": 0,
-                    "noOfCards": 1,
+                    "noOfCards": 5,
                     "buyPricePercentage": 95,
                     "buyPriceSteps": 0,
                     "searchResultThreshold": 21,
@@ -1258,7 +1258,7 @@
                 "buySetting": {
                     "buyPrice": 36500,
                     "bidPrice": 0,
-                    "noOfCards": 1,
+                    "noOfCards": 5,
                     "buyPricePercentage": 95,
                     "buyPriceSteps": 0,
                     "searchResultThreshold": 21,
@@ -1351,7 +1351,7 @@
                 "buySetting": {
                     "buyPrice": 98000,
                     "bidPrice": 0,
-                    "noOfCards": 1,
+                    "noOfCards": 5,
                     "buyPricePercentage": 95,
                     "buyPriceSteps": 0,
                     "searchResultThreshold": 21,
@@ -1444,7 +1444,7 @@
                 "buySetting": {
                     "buyPrice": 268000,
                     "bidPrice": 0,
-                    "noOfCards": 1,
+                    "noOfCards": 5,
                     "buyPricePercentage": 95,
                     "buyPriceSteps": 0,
                     "searchResultThreshold": 21,
@@ -1537,7 +1537,7 @@
                 "buySetting": {
                     "buyPrice": 83500,
                     "bidPrice": 0,
-                    "noOfCards": 1,
+                    "noOfCards": 5,
                     "buyPricePercentage": 95,
                     "buyPriceSteps": 0,
                     "searchResultThreshold": 21,
@@ -1630,7 +1630,7 @@
                 "buySetting": {
                     "buyPrice": 97000,
                     "bidPrice": 0,
-                    "noOfCards": 1,
+                    "noOfCards": 5,
                     "buyPricePercentage": 95,
                     "buyPriceSteps": 0,
                     "searchResultThreshold": 21,
@@ -1723,7 +1723,7 @@
                 "buySetting": {
                     "buyPrice": 302000,
                     "bidPrice": 0,
-                    "noOfCards": 1,
+                    "noOfCards": 5,
                     "buyPricePercentage": 95,
                     "buyPriceSteps": 0,
                     "searchResultThreshold": 21,
@@ -1816,7 +1816,7 @@
                 "buySetting": {
                     "buyPrice": 176000,
                     "bidPrice": 0,
-                    "noOfCards": 1,
+                    "noOfCards": 5,
                     "buyPricePercentage": 95,
                     "buyPriceSteps": 0,
                     "searchResultThreshold": 21,
@@ -1909,7 +1909,7 @@
                 "buySetting": {
                     "buyPrice": 238000,
                     "bidPrice": 0,
-                    "noOfCards": 1,
+                    "noOfCards": 5,
                     "buyPricePercentage": 95,
                     "buyPriceSteps": 0,
                     "searchResultThreshold": 21,
@@ -2002,7 +2002,7 @@
                 "buySetting": {
                     "buyPrice": 231000,
                     "bidPrice": 0,
-                    "noOfCards": 1,
+                    "noOfCards": 5,
                     "buyPricePercentage": 95,
                     "buyPriceSteps": 0,
                     "searchResultThreshold": 21,
@@ -2095,7 +2095,7 @@
                 "buySetting": {
                     "buyPrice": 206000,
                     "bidPrice": 0,
-                    "noOfCards": 1,
+                    "noOfCards": 5,
                     "buyPricePercentage": 95,
                     "buyPriceSteps": 0,
                     "searchResultThreshold": 21,

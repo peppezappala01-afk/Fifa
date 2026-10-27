@@ -16,7 +16,7 @@ Il file vale solo per l'app sul telefono (`"device": true`). L'estensione per br
 ## Impostazioni di ogni filtro
 
 - **Search:** cerca quella versione esatta della carta tramite il suo codice EA, con il "Compralo ora" massimo uguale al prezzo d'acquisto consigliato.
-- **Buy/Bid Settings:** prezzo "Compralo ora" uguale al prezzo d'acquisto consigliato. Nessuna offerta all'asta. Si ferma dopo 1 carta.
+- **Buy/Bid Settings:** prezzo "Compralo ora" uguale al prezzo d'acquisto consigliato. Nessuna offerta all'asta. Si ferma dopo 5 carte comprate (Cards to Buy Count = 5).
 - **Selling Settings:** è attivo solo l'invio alla lista trasferimenti. Le carte comprate vanno lì e non vengono messe in vendita in automatico.
 
 ## Safety Settings (uguali per tutti i filtri)
