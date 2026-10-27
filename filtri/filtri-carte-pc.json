@@ -745,6 +745,99 @@
     }
    }
   },
+  "BELLINGHAM": {
+   "criteria": {
+    "academyOnly": false,
+    "_authenticity": "any",
+    "_category": "any",
+    "_position": "any",
+    "_sort": "desc",
+    "_subtypes": [],
+    "_type": "player",
+    "_untradeables": "",
+    "_zone": -1,
+    "academySlotId": -1,
+    "club": -1,
+    "count": 20,
+    "defId": [
+     252371
+    ],
+    "evolutionStatus": "any",
+    "excludeDefIds": [],
+    "excludeLimitedUse": false,
+    "isExactSearch": false,
+    "excludeTimeEvo": false,
+    "league": -1,
+    "level": "any",
+    "maskedDefId": 0,
+    "maxBid": 0,
+    "maxBuy": 85000,
+    "minBid": 0,
+    "minBuy": 0,
+    "nation": -1,
+    "offset": 0,
+    "playStyle": -1,
+    "preferredPositionOnly": false,
+    "primaryColor": 0,
+    "rarities": [],
+    "secondaryColor": 0,
+    "sbcChallengeId": 0,
+    "pileSearchType": "",
+    "isFavorite": null,
+    "sortBy": "ovr",
+    "icontraits": "any",
+    "ovrMin": 45,
+    "ovrMax": 99
+   },
+   "baseSetting": {
+    "buySetting": {
+     "buyPrice": 85000,
+     "bidPrice": 0,
+     "noOfCards": 5,
+     "buyPricePercentage": 95,
+     "buyPriceSteps": 0,
+     "searchResultThreshold": 21,
+     "bidExactPrice": false,
+     "findBuyPrice": false,
+     "findBidPrice": false,
+     "skipGoalKeeper": false,
+     "skipBasicChemistry": false,
+     "skipClubPlayers": false,
+     "bidItemsExpiringIn": 3600
+    },
+    "sellSetting": {
+     "sellPrice": [
+      0,
+      0
+     ],
+     "clearSoldItemThreshold": 10,
+     "ratingThreshold": 100,
+     "sellPricePercentage": 100,
+     "sellPriceSteps": 0,
+     "listDuration": 3600,
+     "checkBuyPrice": false,
+     "findSellPrice": false,
+     "relistUnSoldItems": false,
+     "quickSell": false,
+     "dontMoveWonItems": false,
+     "moveToTransferList": true,
+     "clearSoldItems": false
+    },
+    "searchSetting": {
+     "randomMinBuy": 300,
+     "randomMinBid": 300,
+     "searchResultPageLimit": 1,
+     "useRandomMinBuy": true,
+     "useRandomMinBid": false,
+     "runForeGround": false,
+     "ratingRange": [
+      10,
+      99
+     ],
+     "filterRating": 0
+    }
+   }
+  },
   "HAKIMI": {
    "criteria": {
     "academyOnly": false,
@@ -838,6 +931,99 @@
     }
    }
   },
+  "OLISE": {
+   "criteria": {
+    "academyOnly": false,
+    "_authenticity": "any",
+    "_category": "any",
+    "_position": "any",
+    "_sort": "desc",
+    "_subtypes": [],
+    "_type": "player",
+    "_untradeables": "",
+    "_zone": -1,
+    "academySlotId": -1,
+    "club": -1,
+    "count": 20,
+    "defId": [
+     247827
+    ],
+    "evolutionStatus": "any",
+    "excludeDefIds": [],
+    "excludeLimitedUse": false,
+    "isExactSearch": false,
+    "excludeTimeEvo": false,
+    "league": -1,
+    "level": "any",
+    "maskedDefId": 0,
+    "maxBid": 0,
+    "maxBuy": 70500,
+    "minBid": 0,
+    "minBuy": 0,
+    "nation": -1,
+    "offset": 0,
+    "playStyle": -1,
+    "preferredPositionOnly": false,
+    "primaryColor": 0,
+    "rarities": [],
+    "secondaryColor": 0,
+    "sbcChallengeId": 0,
+    "pileSearchType": "",
+    "isFavorite": null,
+    "sortBy": "ovr",
+    "icontraits": "any",
+    "ovrMin": 45,
+    "ovrMax": 99
+   },
+   "baseSetting": {
+    "buySetting": {
+     "buyPrice": 70500,
+     "bidPrice": 0,
+     "noOfCards": 5,
+     "buyPricePercentage": 95,
+     "buyPriceSteps": 0,
+     "searchResultThreshold": 21,
+     "bidExactPrice": false,
+     "findBuyPrice": false,
+     "findBidPrice": false,
+     "skipGoalKeeper": false,
+     "skipBasicChemistry": false,
+     "skipClubPlayers": false,
+     "bidItemsExpiringIn": 3600
+    },
+    "sellSetting": {
+     "sellPrice": [
+      0,
+      0
+     ],
+     "clearSoldItemThreshold": 10,
+     "ratingThreshold": 100,
+     "sellPricePercentage": 100,
+     "sellPriceSteps": 0,
+     "listDuration": 3600,
+     "checkBuyPrice": false,
+     "findSellPrice": false,
+     "relistUnSoldItems": false,
+     "quickSell": false,
+     "dontMoveWonItems": false,
+     "moveToTransferList": true,
+     "clearSoldItems": false
+    },
+    "searchSetting": {
+     "randomMinBuy": 300,
+     "randomMinBid": 300,
+     "searchResultPageLimit": 1,
+     "useRandomMinBuy": true,
+     "useRandomMinBid": false,
+     "runForeGround": false,
+     "ratingRange": [
+      10,
+      99
+     ],
+     "filterRating": 0
+    }
+   }
+  },
   "KARCHAOUI": {
    "criteria": {
     "academyOnly": false,
@@ -885,6 +1071,99 @@
    "baseSetting": {
     "buySetting": {
      "buyPrice": 85500,
+     "bidPrice": 0,
+     "noOfCards": 5,
+     "buyPricePercentage": 95,
+     "buyPriceSteps": 0,
+     "searchResultThreshold": 21,
+     "bidExactPrice": false,
+     "findBuyPrice": false,
+     "findBidPrice": false,
+     "skipGoalKeeper": false,
+     "skipBasicChemistry": false,
+     "skipClubPlayers": false,
+     "bidItemsExpiringIn": 3600
+    },
+    "sellSetting": {
+     "sellPrice": [
+      0,
+      0
+     ],
+     "clearSoldItemThreshold": 10,
+     "ratingThreshold": 100,
+     "sellPricePercentage": 100,
+     "sellPriceSteps": 0,
+     "listDuration": 3600,
+     "checkBuyPrice": false,
+     "findSellPrice": false,
+     "relistUnSoldItems": false,
+     "quickSell": false,
+     "dontMoveWonItems": false,
+     "moveToTransferList": true,
+     "clearSoldItems": false
+    },
+    "searchSetting": {
+     "randomMinBuy": 300,
+     "randomMinBid": 300,
+     "searchResultPageLimit": 1,
+     "useRandomMinBuy": true,
+     "useRandomMinBid": false,
+     "runForeGround": false,
+     "ratingRange": [
+      10,
+      99
+     ],
+     "filterRating": 0
+    }
+   }
+  },
+  "KVARA": {
+   "criteria": {
+    "academyOnly": false,
+    "_authenticity": "any",
+    "_category": "any",
+    "_position": "any",
+    "_sort": "desc",
+    "_subtypes": [],
+    "_type": "player",
+    "_untradeables": "",
+    "_zone": -1,
+    "academySlotId": -1,
+    "club": -1,
+    "count": 20,
+    "defId": [
+     247635
+    ],
+    "evolutionStatus": "any",
+    "excludeDefIds": [],
+    "excludeLimitedUse": false,
+    "isExactSearch": false,
+    "excludeTimeEvo": false,
+    "league": -1,
+    "level": "any",
+    "maskedDefId": 0,
+    "maxBid": 0,
+    "maxBuy": 50500,
+    "minBid": 0,
+    "minBuy": 0,
+    "nation": -1,
+    "offset": 0,
+    "playStyle": -1,
+    "preferredPositionOnly": false,
+    "primaryColor": 0,
+    "rarities": [],
+    "secondaryColor": 0,
+    "sbcChallengeId": 0,
+    "pileSearchType": "",
+    "isFavorite": null,
+    "sortBy": "ovr",
+    "icontraits": "any",
+    "ovrMin": 45,
+    "ovrMax": 99
+   },
+   "baseSetting": {
+    "buySetting": {
+     "buyPrice": 50500,
      "bidPrice": 0,
      "noOfCards": 5,
      "buyPricePercentage": 95,
@@ -1861,6 +2140,99 @@
     }
    }
   },
+  "HOWARD HERO HOLO": {
+   "criteria": {
+    "academyOnly": false,
+    "_authenticity": "any",
+    "_category": "any",
+    "_position": "any",
+    "_sort": "desc",
+    "_subtypes": [],
+    "_type": "player",
+    "_untradeables": "",
+    "_zone": -1,
+    "academySlotId": -1,
+    "club": -1,
+    "count": 20,
+    "defId": [
+     67125118
+    ],
+    "evolutionStatus": "any",
+    "excludeDefIds": [],
+    "excludeLimitedUse": false,
+    "isExactSearch": false,
+    "excludeTimeEvo": false,
+    "league": -1,
+    "level": "any",
+    "maskedDefId": 0,
+    "maxBid": 0,
+    "maxBuy": 150000,
+    "minBid": 0,
+    "minBuy": 0,
+    "nation": -1,
+    "offset": 0,
+    "playStyle": -1,
+    "preferredPositionOnly": false,
+    "primaryColor": 0,
+    "rarities": [],
+    "secondaryColor": 0,
+    "sbcChallengeId": 0,
+    "pileSearchType": "",
+    "isFavorite": null,
+    "sortBy": "ovr",
+    "icontraits": "any",
+    "ovrMin": 45,
+    "ovrMax": 99
+   },
+   "baseSetting": {
+    "buySetting": {
+     "buyPrice": 150000,
+     "bidPrice": 0,
+     "noOfCards": 5,
+     "buyPricePercentage": 95,
+     "buyPriceSteps": 0,
+     "searchResultThreshold": 21,
+     "bidExactPrice": false,
+     "findBuyPrice": false,
+     "findBidPrice": false,
+     "skipGoalKeeper": false,
+     "skipBasicChemistry": false,
+     "skipClubPlayers": false,
+     "bidItemsExpiringIn": 3600
+    },
+    "sellSetting": {
+     "sellPrice": [
+      0,
+      0
+     ],
+     "clearSoldItemThreshold": 10,
+     "ratingThreshold": 100,
+     "sellPricePercentage": 100,
+     "sellPriceSteps": 0,
+     "listDuration": 3600,
+     "checkBuyPrice": false,
+     "findSellPrice": false,
+     "relistUnSoldItems": false,
+     "quickSell": false,
+     "dontMoveWonItems": false,
+     "moveToTransferList": true,
+     "clearSoldItems": false
+    },
+    "searchSetting": {
+     "randomMinBuy": 300,
+     "randomMinBid": 300,
+     "searchResultPageLimit": 1,
+     "useRandomMinBuy": true,
+     "useRandomMinBid": false,
+     "runForeGround": false,
+     "ratingRange": [
+      10,
+      99
+     ],
+     "filterRating": 0
+    }
+   }
+  },
   "DUDEK HERO": {
    "criteria": {
     "academyOnly": false,
@@ -1908,6 +2280,99 @@
    "baseSetting": {
     "buySetting": {
      "buyPrice": 97000,
+     "bidPrice": 0,
+     "noOfCards": 5,
+     "buyPricePercentage": 95,
+     "buyPriceSteps": 0,
+     "searchResultThreshold": 21,
+     "bidExactPrice": false,
+     "findBuyPrice": false,
+     "findBidPrice": false,
+     "skipGoalKeeper": false,
+     "skipBasicChemistry": false,
+     "skipClubPlayers": false,
+     "bidItemsExpiringIn": 3600
+    },
+    "sellSetting": {
+     "sellPrice": [
+      0,
+      0
+     ],
+     "clearSoldItemThreshold": 10,
+     "ratingThreshold": 100,
+     "sellPricePercentage": 100,
+     "sellPriceSteps": 0,
+     "listDuration": 3600,
+     "checkBuyPrice": false,
+     "findSellPrice": false,
+     "relistUnSoldItems": false,
+     "quickSell": false,
+     "dontMoveWonItems": false,
+     "moveToTransferList": true,
+     "clearSoldItems": false
+    },
+    "searchSetting": {
+     "randomMinBuy": 300,
+     "randomMinBid": 300,
+     "searchResultPageLimit": 1,
+     "useRandomMinBuy": true,
+     "useRandomMinBid": false,
+     "runForeGround": false,
+     "ratingRange": [
+      10,
+      99
+     ],
+     "filterRating": 0
+    }
+   }
+  },
+  "DUDEK HERO HOLO": {
+   "criteria": {
+    "academyOnly": false,
+    "_authenticity": "any",
+    "_category": "any",
+    "_position": "any",
+    "_sort": "desc",
+    "_subtypes": [],
+    "_type": "player",
+    "_untradeables": "",
+    "_zone": -1,
+    "academySlotId": -1,
+    "club": -1,
+    "count": 20,
+    "defId": [
+     67153761
+    ],
+    "evolutionStatus": "any",
+    "excludeDefIds": [],
+    "excludeLimitedUse": false,
+    "isExactSearch": false,
+    "excludeTimeEvo": false,
+    "league": -1,
+    "level": "any",
+    "maskedDefId": 0,
+    "maxBid": 0,
+    "maxBuy": 156000,
+    "minBid": 0,
+    "minBuy": 0,
+    "nation": -1,
+    "offset": 0,
+    "playStyle": -1,
+    "preferredPositionOnly": false,
+    "primaryColor": 0,
+    "rarities": [],
+    "secondaryColor": 0,
+    "sbcChallengeId": 0,
+    "pileSearchType": "",
+    "isFavorite": null,
+    "sortBy": "ovr",
+    "icontraits": "any",
+    "ovrMin": 45,
+    "ovrMax": 99
+   },
+   "baseSetting": {
+    "buySetting": {
+     "buyPrice": 156000,
      "bidPrice": 0,
      "noOfCards": 5,
      "buyPricePercentage": 95,
@@ -2559,6 +3024,99 @@
    "baseSetting": {
     "buySetting": {
      "buyPrice": 736000,
+     "bidPrice": 0,
+     "noOfCards": 5,
+     "buyPricePercentage": 95,
+     "buyPriceSteps": 0,
+     "searchResultThreshold": 21,
+     "bidExactPrice": false,
+     "findBuyPrice": false,
+     "findBidPrice": false,
+     "skipGoalKeeper": false,
+     "skipBasicChemistry": false,
+     "skipClubPlayers": false,
+     "bidItemsExpiringIn": 3600
+    },
+    "sellSetting": {
+     "sellPrice": [
+      0,
+      0
+     ],
+     "clearSoldItemThreshold": 10,
+     "ratingThreshold": 100,
+     "sellPricePercentage": 100,
+     "sellPriceSteps": 0,
+     "listDuration": 3600,
+     "checkBuyPrice": false,
+     "findSellPrice": false,
+     "relistUnSoldItems": false,
+     "quickSell": false,
+     "dontMoveWonItems": false,
+     "moveToTransferList": true,
+     "clearSoldItems": false
+    },
+    "searchSetting": {
+     "randomMinBuy": 300,
+     "randomMinBid": 300,
+     "searchResultPageLimit": 1,
+     "useRandomMinBuy": true,
+     "useRandomMinBid": false,
+     "runForeGround": false,
+     "ratingRange": [
+      10,
+      99
+     ],
+     "filterRating": 0
+    }
+   }
+  },
+  "ROGERS DESTINY HOLO": {
+   "criteria": {
+    "academyOnly": false,
+    "_authenticity": "any",
+    "_category": "any",
+    "_position": "any",
+    "_sort": "desc",
+    "_subtypes": [],
+    "_type": "player",
+    "_untradeables": "",
+    "_zone": -1,
+    "academySlotId": -1,
+    "club": -1,
+    "count": 20,
+    "defId": [
+     67369111
+    ],
+    "evolutionStatus": "any",
+    "excludeDefIds": [],
+    "excludeLimitedUse": false,
+    "isExactSearch": false,
+    "excludeTimeEvo": false,
+    "league": -1,
+    "level": "any",
+    "maskedDefId": 0,
+    "maxBid": 0,
+    "maxBuy": 510000,
+    "minBid": 0,
+    "minBuy": 0,
+    "nation": -1,
+    "offset": 0,
+    "playStyle": -1,
+    "preferredPositionOnly": false,
+    "primaryColor": 0,
+    "rarities": [],
+    "secondaryColor": 0,
+    "sbcChallengeId": 0,
+    "pileSearchType": "",
+    "isFavorite": null,
+    "sortBy": "ovr",
+    "icontraits": "any",
+    "ovrMin": 45,
+    "ovrMax": 99
+   },
+   "baseSetting": {
+    "buySetting": {
+     "buyPrice": 510000,
      "bidPrice": 0,
      "noOfCards": 5,
      "buyPricePercentage": 95,

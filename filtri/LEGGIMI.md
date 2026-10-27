@@ -1,6 +1,6 @@
 # Filtri per FC Enhancer (app sul telefono, mercato PC)
 
-File: `filtri-carte-pc.json`. Contiene 29 filtri, uno per ogni carta della lista di Requiem: 23 normali e 6 Holo. Le carte con prezzo PC dubbio sono escluse.
+File: `filtri-carte-pc.json`. Contiene 35 filtri, uno per ogni carta della lista di Requiem, Holo comprese: 26 normali e 9 Holo.
 
 ## Come importarli
 
@@ -53,8 +53,11 @@ Vengono dalla tabella PC della chat "Prezzi PC da Futbin": prezzi d'acquisto di 
 | LAMINE YAMAL | 277643 | 140.000 |
 | PACHO | 256196 | 151.000 |
 | PAJOR | 241846 | 155.000 |
+| BELLINGHAM ⚠️ | 252371 | 85.000 |
 | HAKIMI | 235212 | 85.000 |
+| OLISE ⚠️ | 247827 | 70.500 |
 | KARCHAOUI | 233662 | 85.500 |
+| KVARA ⚠️ | 247635 | 50.500 |
 | MARIONA | 237288 | 46.750 |
 | VALVERDE | 239053 | 286.000 |
 | DIOMANDE TOTW | 67186876 | 244.000 |
@@ -65,7 +68,9 @@ Vengono dalla tabella PC della chat "Prezzi PC da Futbin": prezzi d'acquisto di 
 | NETO TOTW HOLO | 67347480 | 142.000 |
 | DIAZ TOTW | 67349948 | 268.000 |
 | HOWARD HERO | 16254 | 83.500 |
+| HOWARD HERO HOLO ⚠️ | 67125118 | 150.000 |
 | DUDEK HERO | 44897 | 97.000 |
+| DUDEK HERO HOLO ⚠️ | 67153761 | 156.000 |
 | RAYA IF | 67329765 | 302.000 |
 | DONNARUMMA IF | 50562269 | 176.000 |
 | SCOTT FS | 50592947 | 238.000 |
@@ -73,13 +78,14 @@ Vengono dalla tabella PC della chat "Prezzi PC da Futbin": prezzi d'acquisto di 
 | GORDON DESTINY | 50574612 | 231.000 |
 | MASTANTUONO FS HOLO | 100942469 | 283.000 |
 | BARCOLA MOTM HOLO | 84150732 | 736.000 |
+| ROGERS DESTINY HOLO ⚠️ | 67369111 | 510.000 |
 | JACOBO RAMON FS | 50402614 | 206.000 |
 
-Carte escluse:
+⚠️ Prezzi da controllare prima di avviare il filtro:
 
-- **Prezzo PC dubbio:** Bellingham, Olise, Kvara.
-- **Holo con poche copie su PC:** Howard Hero Holo, Dudek Hero Holo.
-- **Senza mercato PC:** Rogers Destiny Holo.
+- **Bellingham, Olise, Kvara:** su PC valgono molto meno che su console, più di quanto succeda di solito. Il prezzo d'acquisto viene da quel rapporto, quindi è basso: il filtro compra solo se qualcuno mette la carta sotto mercato.
+- **Howard Hero Holo, Dudek Hero Holo:** su PC ci sono poche copie, e il prezzo PC è circa il 50% sopra la console. Possono essere difficili da rivendere.
+- **Rogers Destiny Holo:** su PC non c'è mercato (FUT Mind la dà a circa 4 milioni). Il prezzo d'acquisto è lo stesso di Requiem per console, 510.000.
 
 ## Come cambiare i prezzi
 
